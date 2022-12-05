@@ -1,0 +1,119 @@
+.margin {
+    margin :20px 60px;
+}
+
+nav {
+
+  background-color: white;
+}
+
+.column {
+  float: left;
+  width: 30%;
+  margin: 20px 20px;
+}
+.image {
+  float: left;
+}
+
+.text {
+  float: left;
+}
+.size {
+  width: 5rem;
+  height: 5rem;
+}
+.down {
+  background-color: silver;
+}
+
+.downdiv {
+  margin: 50px 100px 0px 100px;
+}
+.row{
+  border: 3px solid silver;
+}
+.search {
+  width: 10rem;
+  height: 2rem;
+}
+.card {
+  border: 1px solid #dadada;
+  box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.2s;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+}
+.brand {
+  color: blue;
+}
+.spacing {
+    margin-left :30px;
+}
+
+.left {
+    margin-left :auto;
+}
+
+.container {
+    align-items: center;
+    justify-content: center;
+  }
+
+.float-container {
+    border: 3px solid #fff;
+
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+
+}
+.center {
+  text-align: center;
+}
+.form-control {
+    border: 0;
+}
+.no-border {
+    border: 0;
+    box-shadow: none;
+
+}
+.icons {
+  padding-left: 25px;
+  background: url("<i class="fa-solid fa-envelope"></i>") no-repeat left;
+  background-size: 20px;
+}
+
+input {
+  outline: 0;
+  border-width: 0 0 2px;
+}
+li {
+  display: inline;
+}
+
+.input-icons i {
+  position: absolute;
+}
+.input-field {
+    width: 50%;
+
+    text-align: center;
+}
+
+.leftm{
+  margin-left: 250px
+}
+.spacebtw {
+  margin-bottom: 40px
+}
+.width{
+  width: 93%
+}
+.widthbt{
+  width: 55%
+}
