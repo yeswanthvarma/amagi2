@@ -1,5 +1,5 @@
 .margin {
-    margin :20px 60px;
+    margin :5px 60px;
 }
 
 nav {
@@ -66,10 +66,13 @@ nav {
 
 }
 
-.float-child {
-    width: 50%;
+.float-child-right {
+    width: 65%;
     float: left;
-
+}
+.float-child-left {
+    width: 35%;
+    float: left;
 }
 .center {
   text-align: center;
@@ -109,7 +112,7 @@ li {
   margin-left: 250px
 }
 .spacebtw {
-  margin-bottom: 40px
+  margin-bottom: 20px
 }
 .width{
   width: 93%
